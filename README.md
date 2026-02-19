@@ -19,4 +19,4 @@
 2. Скачайте файл `rps_game.py`.
 3. Запустите его через терминал:
    ```bash
-   python rps_game.py
+   python rps.py
